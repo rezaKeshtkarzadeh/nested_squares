@@ -6,6 +6,7 @@ function nested_squares(w1, n, step)
     angle = 0;                              % Init rotation angle
     
     %% init figure --------------------------------------------------------
+    close all;
     figure;
     axis equal;
     grid on;
