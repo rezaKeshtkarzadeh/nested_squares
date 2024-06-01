@@ -3,7 +3,7 @@
 clear; clc; format long;
 
 %% init and callbacks -----------------------------------------------------
-w1 = 10;                        % Width of main square
+w1 = 10;                        % Width of main square's sides
 n = 100;                         % Number of squares to be drawn
 i = 0.1;                        % 0 <= i <= 1
 
